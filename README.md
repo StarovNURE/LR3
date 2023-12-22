@@ -27,7 +27,7 @@
 
 **Обрана модель**:
 <pre>
-C:\Program Files\NetLogo 6.3.0\models\IABM Textbook\chapter 3\Segregation Extensions\Segregation Simple Extension 1.nlogo
+D:\labs\Старов\Segregation Simple Extension 1.nlogo
 </pre>
 **Параметри моделі** (вкладка Model):  
 *Параметри та їх можливі діапазони були **автоматично** вилучені середовищем BehaviorSearch із вибраної імітаційної моделі, для цього є кнопка «Завантажити діапазони параметрів із інтерфейсу моделі»*, хоча й дещо підправлені для доцільності дослідження:
